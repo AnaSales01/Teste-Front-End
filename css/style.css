@@ -1,0 +1,30 @@
+body{
+	background-color:#FDE8E2;
+}
+
+#logo{
+	text-align:center;
+	margin:10% 0;
+}
+
+a{
+	font-size:20px;
+}
+
+.conteudo{
+	margin:40px;
+	display:inline-block;
+}
+.conteudo a{
+	text-decoration:none;
+	border:2px solid #A60954;
+	padding:10px;
+	border-radius:10px;
+	background:#A60954;
+	color:white;
+}
+
+.conteudo a:hover{
+	background-color:white;
+	color:#A60954;
+}
